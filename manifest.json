@@ -1,0 +1,9 @@
+{
+  "name": "TOANAH",
+  "short_name": "M-AH",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f9d58",
+  "icons": []
+}
